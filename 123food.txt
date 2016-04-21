@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 my name is food.
 food is awesome,food is life now
 food is love now
+=======
+food is awesome, food is life
+food is beautiful, food is nice
+one does not go to food, but simply food goes to them
+the journey to reach all food is long
+but it will be nice
+>>>>>>> origin/master
+food is awesome, food is life
+food is beautiful, food is nice
+one does not go to food, but simply food goes to them
+the journey to reach all food is long
+but it will be nice
